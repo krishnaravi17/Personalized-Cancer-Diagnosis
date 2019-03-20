@@ -1,2 +1,4 @@
 # Personalized-Cancer-Diagnosis
-Classify the given genetic variations/mutations based on evidence from text-based clinical literature
+1. This project is done by using python in jupyter notebook.
+2. You can go for either ipython , jupyter notebook or Google colab also.
+
